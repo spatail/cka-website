@@ -1,0 +1,16 @@
+User-agent: *
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: SentiBot
+User-agent: sentibot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+# This file was generated on Mon, 09 Oct 2023 06:01:45 +0000
